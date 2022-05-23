@@ -1,5 +1,6 @@
 # Exemple de proiecte in C# facute de mine
 In folderul Tracker Angajati Mario este un program in care putem sa vedem angajatii din firma si specializarile si putem sa facem un tracker de timp.<br/>
+<br/>
 In folderul MagazinMuzica este un Magazin de Muzica simplist care respecta cerintele proiectului facultatii<br/>
 <br/>
 In folderul Chestionar fun se afla un joc de ghicit ce se afla in poza din 4 variante<br/>
