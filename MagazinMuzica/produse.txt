@@ -1,0 +1,6 @@
+﻿1|CD|Beatles
+2|Instrument|eChitara
+3|Instrument|Saxofon
+4|Caseta|BTS
+5|CD|Ggostemane
+6|CD|Nane

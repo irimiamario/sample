@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{879850E4-F596-4BFC-ABF9-2FAC1A83B48B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MagazinMuzica</RootNamespace>
+    <AssemblyName>MagazinMuzica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEdit.Designer.cs">
+      <DependentUpon>AdminEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminlogin.Designer.cs">
+      <DependentUpon>Adminlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlegereProdus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlegereProdus.Designer.cs">
+      <DependentUpon>AlegereProdus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caseta.cs" />
+    <Compile Include="CD.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Instrumente.cs" />
+    <Compile Include="MuzicaProd.cs" />
+    <Compile Include="Produse.cs" />
+    <Compile Include="InstrumenteMuzicale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstrumenteMuzicale.Designer.cs">
+      <DependentUpon>InstrumenteMuzicale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muzica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muzica.Designer.cs">
+      <DependentUpon>Muzica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrimaPagina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrimaPagina.Designer.cs">
+      <DependentUpon>PrimaPagina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProduseFiltru.cs" />
+    <EmbeddedResource Include="AdminEdit.resx">
+      <DependentUpon>AdminEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminlogin.resx">
+      <DependentUpon>Adminlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlegereProdus.resx">
+      <DependentUpon>AlegereProdus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstrumenteMuzicale.resx">
+      <DependentUpon>InstrumenteMuzicale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muzica.resx">
+      <DependentUpon>Muzica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimaPagina.resx">
+      <DependentUpon>PrimaPagina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+</Project>

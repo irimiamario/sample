@@ -1,0 +1,16 @@
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\bin\Debug\MagazinMuzica.exe
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\bin\Debug\MagazinMuzica.exe.config
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.AdminEdit.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.Adminlogin.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.AlegereProdus.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.InstrumenteMuzicale.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.Muzica.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.PrimaPagina.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.Properties.Resources.resources
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.exe
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\obj\Debug\MagazinMuzica.pdb
+C:\Users\Mario\Desktop\Magazin Muzica Alexa\MagazinMuzica\MagazinMuzica\bin\Debug\MagazinMuzica.pdb

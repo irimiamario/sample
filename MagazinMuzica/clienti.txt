@@ -1,0 +1,6 @@
+﻿2|Instrument|Chitara|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
+3|Instrument|Saxofon|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
+2|Instrument|Chitara|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
+3|Instrument|Saxofon|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
+2|Instrument|Chitara|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
+3|Instrument|Saxofon|Alex|Popescu|Strada Logofat|Tembel@gmail.com|+408723434
