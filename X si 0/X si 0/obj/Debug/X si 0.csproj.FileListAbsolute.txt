@@ -1,0 +1,31 @@
+C:\Users\alexa\source\repos\X si 0\X si 0\bin\Debug\X si 0.exe.config
+C:\Users\alexa\source\repos\X si 0\X si 0\bin\Debug\X si 0.exe
+C:\Users\alexa\source\repos\X si 0\X si 0\bin\Debug\X si 0.pdb
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X si 0.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X_si_0.Form1.resources
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X_si_0.Properties.Resources.resources
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X si 0.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X si 0.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X si 0.exe
+C:\Users\alexa\source\repos\X si 0\X si 0\obj\Debug\X si 0.pdb
+C:\Users\vn\Desktop\X si 0\X si 0\bin\Debug\X si 0.exe.config
+C:\Users\vn\Desktop\X si 0\X si 0\bin\Debug\X si 0.exe
+C:\Users\vn\Desktop\X si 0\X si 0\bin\Debug\X si 0.pdb
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X si 0.csprojAssemblyReference.cache
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X_si_0.Form1.resources
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X_si_0.Properties.Resources.resources
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X si 0.csproj.GenerateResource.cache
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X si 0.csproj.CoreCompileInputs.cache
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X si 0.exe
+C:\Users\vn\Desktop\X si 0\X si 0\obj\Debug\X si 0.pdb
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\bin\Debug\X si 0.exe.config
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\bin\Debug\X si 0.exe
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\bin\Debug\X si 0.pdb
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X_si_0.Form1.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X_si_0.Properties.Resources.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.exe
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\X si 0\X si 0\obj\Debug\X si 0.pdb
