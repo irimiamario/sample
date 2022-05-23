@@ -1,0 +1,19 @@
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\bin\Debug\Tracker Angajati Mario.exe.config
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\bin\Debug\Tracker Angajati Mario.exe
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\bin\Debug\Tracker Angajati Mario.pdb
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\bin\Debug\Pontaj DLL.dll
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.AdminEdit.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.AdminLogin.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.angajatiGeneral3RD.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.angajatiGenerali.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.angajatIT.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.AngajatSelect.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.HomeScreen.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker_Angajati_Mario.Properties.Resources.resources
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.csproj.CopyComplete
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.exe
+C:\Users\Mario\Desktop\Proiect C# Mario\Tracker Angajati Mario\Tracker Angajati Mario\obj\Debug\Tracker Angajati Mario.pdb
