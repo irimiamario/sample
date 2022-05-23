@@ -1,0 +1,25 @@
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csprojAssemblyReference.cache
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form1.resources
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Properties.Resources.resources
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.GenerateResource.cache
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.CoreCompileInputs.cache
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.exe.config
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.exe
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.pdb
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.exe
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.pdb
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form2.resources
+C:\Users\vn\Desktop\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form3.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.exe.config
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.exe
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\bin\Debug\Irimia Mario Costin GR607.pdb
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form1.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form2.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Form3.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia_Mario_Costin_GR607.Properties.Resources.resources
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.exe
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\final programare\Irimia Mario Costin GR607\obj\Debug\Irimia Mario Costin GR607.pdb
