@@ -1,0 +1,31 @@
+body{
+    background: #ffffff;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    height: 300px;
+     
+}
+row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+    
+  @media screen and (max-width: 600 px){
+    .column{
+        width: 100%;
+    }
+  }
+
+  
+  .text-alb{
+      color:#ffffff;
+  }
+  
+  .center{
+      text-align: center;
+      
+  }
