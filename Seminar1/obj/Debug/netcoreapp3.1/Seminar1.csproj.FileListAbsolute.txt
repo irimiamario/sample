@@ -1,0 +1,27 @@
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.exe
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.deps.json
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.runtimeconfig.json
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.runtimeconfig.dev.json
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.dll
+C:\Users\vn\Desktop\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.pdb
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.csprojAssemblyReference.cache
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.AssemblyInfoInputs.cache
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.AssemblyInfo.cs
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.dll
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.pdb
+C:\Users\vn\Desktop\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.genruntimeconfig.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.exe
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.deps.json
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.runtimeconfig.json
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.dll
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\bin\Debug\netcoreapp3.1\Seminar1.pdb
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.AssemblyInfo.cs
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.dll
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.pdb
+C:\Users\Mario\Desktop\SSD backup\desktop clean up 1\Programare\Seminar1\obj\Debug\netcoreapp3.1\Seminar1.genruntimeconfig.cache

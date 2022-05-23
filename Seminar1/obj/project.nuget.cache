@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BucngeYOitrPUQepdDaNmoUJRB02v7pauXMnyEh8PzCen4kmQw6fF4+LP1Y/Lux/MCAZ/C1PblZvbUEPeahHLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\Desktop\\SSD backup\\desktop clean up 1\\Programare\\Seminar1\\Seminar1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
